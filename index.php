@@ -74,7 +74,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                         </svg>
                         <div>
-                            <div class="text-2xl font-bold text-gray-900">Kun 1 kr. pr. screening</div>
+                            <div class="text-2xl font-bold text-gray-900">Kun 20 kr. / år</div>
                             <div class="text-sm text-gray-600">100% forbrugsafregning • Ingen binding • Intet abonnement</div>
                         </div>
                     </div>
@@ -437,8 +437,8 @@
                         <tr class="border-b border-gray-100 bg-green-50">
                             <td class="py-5 px-6 font-bold text-gray-900 text-lg">Pris pr. screening</td>
                             <td class="py-5 px-6 text-center">
-                                <div class="text-3xl font-bold text-green-600 mb-1">1 kr</div>
-                                <div class="text-sm text-gray-600">Ingen binding</div>
+                                <div class="text-3xl font-bold text-green-600 mb-1">20 kr</div>
+                                <div class="text-sm text-gray-600">/ år</div>
                             </td>
                             <td class="py-5 px-6 text-center">
                                 <div class="text-xl font-semibold text-gray-600 mb-1">Fra 8 kr</div>
@@ -459,7 +459,7 @@
                             <td class="py-5 px-6 text-center">
                                 <div class="text-2xl font-bold text-green-600">0 kr</div>
                             </td>
-                            <td class="py-5 px-6 text-center text-gray-600">Fra 599 kr/mnd</td>
+                            <td class="py-5 px-6 text-center text-gray-600">Fra 180 kr/år</td>
                             <td class="py-5 px-6 text-center text-gray-600">Fra 499 kr/mnd</td>
                             <td class="py-5 px-6 text-center text-gray-600">Fra 799 kr/mnd</td>
                         </tr>
