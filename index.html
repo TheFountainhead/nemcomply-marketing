@@ -467,7 +467,7 @@
                         </tr>
 
                         <tr class="border-b border-gray-100 bg-gray-50">
-                            <td class="py-5 px-6 font-semibold text-gray-900">PEP-tjek af UK kunder</td>
+                            <td class="py-5 px-6 font-semibold text-gray-900">PEP UK screening</td>
                             <td class="py-5 px-6 text-center">
                                 <svg class="w-6 h-6 text-green-600 mx-auto" fill="currentColor" viewBox="0 0 20 20">
                                     <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
