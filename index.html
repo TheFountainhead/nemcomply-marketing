@@ -104,8 +104,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="hidden lg:block relative overflow-hidden">
-                    <img src="hero-document.png" alt="NemComply KYC compliance" class="w-full h-auto drop-shadow-2xl" style="margin-bottom: -95px;">
+                <div class="hidden lg:block relative">
+                    <img src="hero-document.png" alt="NemComply KYC compliance" class="w-full h-auto drop-shadow-2xl">
                 </div>
             </div>
         </div>
