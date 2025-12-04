@@ -74,7 +74,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                         </svg>
                         <div>
-                            <div class="text-2xl font-bold text-gray-900">Kun 20 kr. / år</div>
+                            <div class="text-2xl font-bold text-gray-900">Kun 20 kr. / år pr. klient</div>
                             <div class="text-sm text-gray-600">100% forbrugsafregning • Ingen binding • Intet abonnement</div>
                         </div>
                     </div>
@@ -436,11 +436,11 @@
                             <td class="py-5 px-6 font-bold text-gray-900 text-lg">Årlig pris</td>
                             <td class="py-5 px-6 text-center">
                                 <div class="text-3xl font-bold text-green-600 mb-1">20 kr</div>
-                                <div class="text-sm text-gray-600">/ år</div>
+                                <div class="text-sm text-gray-600">/ år pr. klient</div>
                             </td>
                             <td class="py-5 px-6 text-center">
                                 <div class="text-xl font-semibold text-gray-600 mb-1">Fra 180 kr</div>
-                                <div class="text-sm text-gray-500">/ år</div>
+                                <div class="text-sm text-gray-500">/ år pr. klient</div>
                             </td>
                         </tr>
 
@@ -658,7 +658,7 @@
                         <div class="inline-flex items-center gap-2 px-3 py-1 bg-black text-white rounded-full font-bold text-sm">
                             NemComply
                         </div>
-                        <span class="text-xl font-bold text-green-600">kun 20 kr/år</span>
+                        <span class="text-xl font-bold text-green-600">kun 20 kr/år pr. klient</span>
                     </div>
                     <p class="text-gray-700">Alle funktioner inkluderet. Ingen binding. Ubegrænset antal klienter.</p>
                 </div>
