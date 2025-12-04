@@ -681,15 +681,63 @@
     </section>
 
     <!-- Footer -->
-    <footer class="py-12 px-4 sm:px-6 lg:px-8 bg-white border-t border-gray-200">
+    <footer class="py-16 px-4 sm:px-6 lg:px-8 bg-gray-900 text-white">
         <div class="max-w-7xl mx-auto">
-            <div class="flex flex-col md:flex-row justify-between items-center gap-4">
-                <div class="text-gray-600">
-                    © <?php echo date('Y'); ?> NemComply. Alle rettigheder forbeholdes.
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-12">
+                <!-- Produkt -->
+                <div>
+                    <h4 class="font-bold text-white mb-4">Produkt</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#features" class="text-gray-400 hover:text-white transition">Funktioner</a></li>
+                        <li><a href="#pricing" class="text-gray-400 hover:text-white transition">Priser</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Integrationer</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">API</a></li>
+                    </ul>
                 </div>
-                <div class="flex gap-6">
-                    <a href="https://app.nemcomply.dk/login" class="text-gray-600 hover:text-gray-900">Log ind</a>
-                    <a href="mailto:kontakt@nemcomply.dk" class="text-gray-600 hover:text-gray-900">Kontakt</a>
+
+                <!-- Ressourcer -->
+                <div>
+                    <h4 class="font-bold text-white mb-4">Ressourcer</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Blog</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Vejledninger</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">FAQ</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Helpcenter</a></li>
+                    </ul>
+                </div>
+
+                <!-- Om -->
+                <div>
+                    <h4 class="font-bold text-white mb-4">Om</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Om os</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Kontakt</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Karriere</a></li>
+                    </ul>
+                </div>
+
+                <!-- Support -->
+                <div>
+                    <h4 class="font-bold text-white mb-4">Support</h4>
+                    <ul class="space-y-2">
+                        <li><a href="mailto:support@nemcomply.dk" class="text-gray-400 hover:text-white transition">support@nemcomply.dk</a></li>
+                        <li><a href="https://app.nemcomply.dk/login" class="text-gray-400 hover:text-white transition">Log ind</a></li>
+                        <li><a href="https://app.nemcomply.dk/register" class="text-gray-400 hover:text-white transition">Opret konto</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Bottom footer -->
+            <div class="border-t border-gray-800 pt-8">
+                <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+                    <div class="flex flex-wrap justify-center md:justify-start gap-4 text-sm text-gray-400">
+                        <a href="#" class="hover:text-white transition">Privatlivspolitik</a>
+                        <a href="#" class="hover:text-white transition">Cookiepolitik</a>
+                        <a href="#" class="hover:text-white transition">Handelsbetingelser</a>
+                    </div>
+                    <div class="text-gray-400 text-sm">
+                        © <?php echo date('Y'); ?> NemComply. Alle rettigheder forbeholdes.
+                    </div>
                 </div>
             </div>
         </div>
