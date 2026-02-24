@@ -5,6 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>NemComply - Effektiv KYC og Kundekendskab</title>
     <meta name="description" content="En sikker og effektiv vej til kundekendskab. Hurtig screening mod PEP- og sanktionslister med løbende overvågning.">
+    <link rel="canonical" href="https://nemcomply.dk">
+
+    <!-- Open Graph -->
+    <meta property="og:locale" content="da_DK">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="NemComply | Automatiseret PEP- og sanktionsscreening">
+    <meta property="og:description" content="Hurtig klientscreening mod PEP- og sanktionslister med løbende overvågning. Kun 20 kr. pr. klient om året — ingen binding.">
+    <meta property="og:url" content="https://nemcomply.dk">
+    <meta property="og:site_name" content="NemComply">
+    <meta property="og:image" content="https://nemcomply.dk/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/png">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="NemComply | Automatiseret PEP- og sanktionsscreening">
+    <meta name="twitter:description" content="Hurtig klientscreening mod PEP- og sanktionslister med løbende overvågning. Kun 20 kr. pr. klient om året — ingen binding.">
+    <meta name="twitter:image" content="https://nemcomply.dk/og-image.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
 
