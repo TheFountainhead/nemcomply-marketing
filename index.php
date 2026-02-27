@@ -26,15 +26,6 @@
     <meta name="twitter:description" content="Hurtig klientscreening mod PEP- og sanktionslister med løbende overvågning. Kun 20 kr. pr. klient om året — ingen binding.">
     <meta name="twitter:image" content="https://nemcomply.dk/og-image.png">
 
-    <link rel="canonical" href="https://nemcomply.dk/">
-
-    <!-- Open Graph -->
-    <meta property="og:title" content="NemComply - Effektiv KYC og Kundekendskab">
-    <meta property="og:description" content="En sikker og effektiv vej til kundekendskab. Hurtig screening mod PEP- og sanktionslister med løbende overvågning.">
-    <meta property="og:url" content="https://nemcomply.dk/">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="NemComply">
-
     <link rel="stylesheet" href="/style.css">
 
     <script type="application/ld+json">
