@@ -1,3 +1,4 @@
+<?php header('Cache-Control: public, max-age=3600, s-maxage=86400'); ?>
 <!DOCTYPE html>
 <html lang="da">
 <head>
@@ -25,7 +26,55 @@
     <meta name="twitter:description" content="Hurtig klientscreening mod PEP- og sanktionslister med løbende overvågning. Kun 20 kr. pr. klient om året — ingen binding.">
     <meta name="twitter:image" content="https://nemcomply.dk/og-image.png">
 
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="canonical" href="https://nemcomply.dk/">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="NemComply - Effektiv KYC og Kundekendskab">
+    <meta property="og:description" content="En sikker og effektiv vej til kundekendskab. Hurtig screening mod PEP- og sanktionslister med løbende overvågning.">
+    <meta property="og:url" content="https://nemcomply.dk/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="NemComply">
+
+    <link rel="stylesheet" href="/style.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "NemComply",
+      "url": "https://nemcomply.dk",
+      "description": "En sikker og effektiv vej til kundekendskab. Hurtig screening mod PEP- og sanktionslister med løbende overvågning.",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "support@nemcomply.dk",
+        "contactType": "customer support"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "NemComply",
+      "url": "https://nemcomply.dk"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "NemComply",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "description": "KYC og compliance platform med PEP- og sanktionsscreening, løbende overvågning og vejledende risikovurdering.",
+      "offers": {
+        "@type": "Offer",
+        "price": "20",
+        "priceCurrency": "DKK",
+        "unitText": "pr. klient pr. år"
+      }
+    }
+    </script>
 
     <style>
         body {
