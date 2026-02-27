@@ -186,7 +186,7 @@
                         </svg>
                     </div>
                     <h3 class="text-xl font-semibold text-gray-900 mb-2">PEP, RCA & Sanktionstjek</h3>
-                    <p class="text-gray-600">Automatisk tjek mod globale PEP-lister, EU og FN sanktionslister samt bad media screening</p>
+                    <p class="text-gray-600">Automatisk screening mod 17 kilder inkl. danske og britiske PEP-lister, EU- og FN-sanktionslister, Wikidata, FINMA og flere</p>
                 </div>
 
                 <div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
@@ -217,7 +217,7 @@
                         </svg>
                     </div>
                     <h3 class="text-xl font-semibold text-gray-900 mb-2">Vejledende Risikovurdering</h3>
-                    <p class="text-gray-600">Vejledende risikovurdering baseret på screening-resultater, bad media og kundeoplysninger</p>
+                    <p class="text-gray-600">Vejledende risikovurdering baseret på screening-resultater og kundeoplysninger med 13 parametre</p>
                 </div>
 
                 <div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
@@ -226,8 +226,9 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V8a2 2 0 00-2-2h-5m-4 0V5a2 2 0 114 0v1m-4 0a2 2 0 104 0m-5 8a2 2 0 100-4 2 2 0 000 4zm0 0c1.306 0 2.417.835 2.83 2M9 14a3.001 3.001 0 00-2.83 2M15 11h3m-3 4h2"></path>
                         </svg>
                     </div>
-                    <h3 class="text-xl font-semibold text-gray-900 mb-2">eID & Dokumentverifikation</h3>
-                    <p class="text-gray-600">ID-dokumentation og verifikation med MitID samt automatisk legitimationskontrol</p>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-2">Legitimation & Dokumentation</h3>
+                    <p class="text-gray-600">Anmod om og modtag ID-dokumenter digitalt. Upload og gem legitimation direkte på klienten</p>
+                    <span class="inline-block mt-2 text-xs font-semibold px-2 py-1 bg-amber-100 text-amber-800 rounded">MitID-integration kommer snart</span>
                 </div>
 
                 <div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
@@ -238,6 +239,46 @@
                     </div>
                     <h3 class="text-xl font-semibold text-gray-900 mb-2">Dashboard Overblik</h3>
                     <p class="text-gray-600">Hurtigt overblik over alle kunder, deres status og compliance-opgaver på ét dashboard</p>
+                </div>
+
+                <div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
+                    <div class="w-12 h-12 bg-black text-white rounded-lg flex items-center justify-center mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-2">Automatisk Re-screening</h3>
+                    <p class="text-gray-600">Ugentlig automatisk re-screening af alle aktive klienter mod opdaterede PEP- og sanktionslister</p>
+                </div>
+
+                <div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
+                    <div class="w-12 h-12 bg-black text-white rounded-lg flex items-center justify-center mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-2">PDF Compliance-rapporter</h3>
+                    <p class="text-gray-600">Generér professionelle compliance-rapporter i PDF til dokumentation og revision</p>
+                </div>
+
+                <div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
+                    <div class="w-12 h-12 bg-black text-white rounded-lg flex items-center justify-center mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-2">REST API</h3>
+                    <p class="text-gray-600">Fuldt dokumenteret REST API med token-baseret autentifikation til integration med egne systemer</p>
+                </div>
+
+                <div class="bg-white p-8 rounded-xl shadow-sm hover:shadow-md transition">
+                    <div class="w-12 h-12 bg-black text-white rounded-lg flex items-center justify-center mb-4">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-2">Bulk CSV-import</h3>
+                    <p class="text-gray-600">Importér hundredvis af klienter på én gang via CSV-upload med automatisk screening</p>
                 </div>
             </div>
         </div>
@@ -267,7 +308,7 @@
                 <div class="text-center">
                     <div class="w-16 h-16 bg-black text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-6">3</div>
                     <h3 class="text-xl font-semibold text-gray-900 mb-3">Screening og vurdering</h3>
-                    <p class="text-gray-600">Vejledende risikovurdering med PEP-, sanktionstjek og bad media screening. Sidste trin er din finale evaluering.</p>
+                    <p class="text-gray-600">Automatisk PEP- og sanktionstjek mod 17 kilder samt vejledende risikovurdering. Sidste trin er din finale evaluering.</p>
                 </div>
             </div>
         </div>
@@ -296,6 +337,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Google Drive</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -309,6 +351,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Dropbox</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -321,6 +364,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Slack</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -333,6 +377,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Zapier</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -353,6 +398,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">HubSpot</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -363,6 +409,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Salesforce</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -387,6 +434,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Google Drive</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -400,6 +448,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Dropbox</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -412,6 +461,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Slack</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -424,6 +474,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Zapier</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -444,6 +495,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">HubSpot</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
@@ -454,6 +506,7 @@
                             </svg>
                         </div>
                         <div class="font-semibold text-gray-900">Salesforce</div>
+                        <div class="text-xs font-semibold text-amber-700 bg-amber-100 rounded px-1.5 py-0.5 mt-1 inline-block">Kommer snart</div>
                     </div>
 
                     <div class="flex-shrink-0 w-48 bg-white p-6 rounded-xl shadow-sm text-center">
